@@ -7,7 +7,9 @@ LINUX BASE COMMOND
 
 ##Grep a txt in all directory 
 grep -winr "felix" .
+
 ##grep a txt in all directory but not show the info just the file 
+
 grep -wirl "felix" .
 
 ## search for a file that contains two or more words, use an asterisk (*).
